@@ -17,6 +17,7 @@ O objetivo principal é criar uma aplicação __Java__ capaz de converter moedas
 - [Pré-requisitos](#-pré-requisitos)
 - [Funcionalidades](#-funcionalidades)
 - [Como Utilizar](#-como-utilizar)
+- [Badge de Conclusão](#-badge-de-conclusão)
 
 ## 📋 Pré-requisitos
 - Acesso à internet
@@ -31,3 +32,9 @@ O objetivo principal é criar uma aplicação __Java__ capaz de converter moedas
 2. Certifique-se de ter o Java instalado em sua máquina;
 3. Compile e execute o código-fonte;
 4. Siga as instruções no console para realizar as conversões desejadas.
+
+## ⭐ Badge de Conclusão
+<p align="left">
+    <img src="https://github.com/jessiferreira/conversor-de-moedas/assets/121064773/c851fb04-f0aa-4543-88c7-ce0ecd9e3b16" alt="image" width="180">
+</p>
+
