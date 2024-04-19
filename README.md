@@ -1,4 +1,12 @@
-# 🧸 CONVERSOR DE MOEDAS
+<p align="center">
+  <img src="https://github.com/jessiferreira/conversor-de-moedas/assets/121064773/c1b8fd0e-bcdc-4bb0-a059-de8ff7af9f30" alt="imagem-alura" width="1200px">
+</p>
+
+[![Generic badge](https://img.shields.io/badge/LINGUAGEM-Java-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/BIBLIOTECA-Gson-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/API-Exchange_Rate_API-FF79C6.svg)](https://shields.io/)&nbsp;
+[![Generic badge](https://img.shields.io/badge/IDE-IntelliJ_IDEA-FF79C6.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-FF79C6.svg)](https://shields.io/)&nbsp;
+
+
+# CONVERSOR DE MOEDAS
 
 ## 📖 Descrição
 Este projeto é um __conversor de moedas__ desenvolvido como parte do desafio proposto pela parceria entre a __Alura__ e a __Oracle Next Education__, como parte do programa __Alura Challenges Oracle ONE__. 
